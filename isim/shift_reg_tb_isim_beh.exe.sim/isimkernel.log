@@ -1,0 +1,34 @@
+Command line:
+   shift_reg_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58174
+
+Fri Sep 11 16:22:47 2020
+
+
+ Elaboration Time: 0.84375 sec
+
+ Current Memory Usage: 1626.52 Meg
+
+ Total Signals          : 12
+ Total Nets             : 13
+ Total Signal Drivers   : 6
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 3
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 374
+
+** Failure:finish
+User(VHDL) Code Called Simulation Stop
+In process shift_reg_tb.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 1.4375 sec
+
+ Current Memory Usage: 996.438 Meg
+
+Fri Sep 11 16:24:51 2020
+

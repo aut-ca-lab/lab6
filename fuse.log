@@ -1,0 +1,21 @@
+Running: E:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o E:/Computer Architecture/L6/shift_reg_tb_isim_beh.exe -prj E:/Computer Architecture/L6/shift_reg_tb_beh.prj work.shift_reg_tb 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/Computer Architecture/L6/src/shift_reg.vhd" into library work
+Parsing VHDL file "E:/Computer Architecture/L6/tests/shift_reg_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160212 KB
+Fuse CPU Usage: 156 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package env
+Compiling architecture behavioral of entity shift_reg [shift_reg_default]
+Compiling architecture behavior of entity shift_reg_tb
+Time Resolution for simulation is 1ps.
+Compiled 6 VHDL Units
+Built simulation executable E:/Computer Architecture/L6/shift_reg_tb_isim_beh.exe
+Fuse Memory Usage: 173240 KB
+Fuse CPU Usage: 186 ms
